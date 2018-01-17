@@ -1,0 +1,2 @@
+# CHAIOS
+IOS 11 BUG
